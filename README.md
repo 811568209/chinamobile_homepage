@@ -2,6 +2,8 @@
 <h2>仿写中国移动管网首页</h2>
 前端使用vue，后端使用php
 
+在线访问地址：http://2444f679p9.wicp.vip:37469/CM
+
 A Vue.js project
 
 ## Build Setup
