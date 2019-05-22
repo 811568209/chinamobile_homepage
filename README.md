@@ -1,7 +1,8 @@
 # chinamobile_vue
 <h2>仿写中国移动管网首页</h2>
 前端使用vue，后端使用php
-> A Vue.js project
+
+A Vue.js project
 
 ## Build Setup
 
