@@ -1,0 +1,188 @@
+#main .f a{color: black;width: 150px;display: block;}
+#main{text-align: left;position: relative}
+#main #lou{width: 40px;height: 239px;position: fixed;top:150px;left: 50px;display: none;z-index: 100}
+#lou li{width: 32px;height: 40px;border: solid 1px silver;text-align: center;line-height: 40px}
+#lou li:last-child{line-height: 20px}
+/*一楼*/
+.f1inner{width: 1200px;height: 466px}
+.col1{width: 475px;height: 466px;float: left;border: solid 1px silver;overflow: hidden}
+.col2,.col2,.col3,.col4{width: 240px;height: 466px;float: left;border: solid 1px #E8E8E8;overflow: hidden}
+.col1inner1{width: 475px;height: 325px;}
+.col1inner2{width: 475px;height: 140px;margin-top: 1px}
+#main .col1inner2 a{display: block;height: 138px;width: 100%}
+.col1box21{width: 250px;margin-top: 50px;margin-left: 43px}
+.col2inner1,.col2inner2{width: 240px;height: 232px;position: relative}
+.col3{position: relative}
+.col2inner1 img,.col2inner2 img,.col3 img{position: absolute;left: 0px;right: 0px; bottom: 0px;width: 99%}
+.col2inner1 div,.col2inner2 div{padding-left: 10px;padding-top: 20px}
+.col3 div{padding-left: 10px;padding-top: 20px}
+.col4inner1,.col4inner2{width: 240px;height: 232px;position: relative}
+.col4inner1 img,.col4inner2 img,.col3 img{position: absolute;left: 0px;right: 0px; bottom: 0px;width: 99%}
+.col4inner1 div,.col4inner2 div{padding-left: 10px;padding-top: 20px;width: 230px}
+.divw{height: 60px;line-height: 60px}
+.divw ul li{width: 65px}
+#main .divw ul li:last-child a{color: red}
+/*二楼*/
+.f2inner{width: 1200px;height: 466px}
+.f2col1{width: 475px;height: 466px;float: left;}
+.f2col234,.f2col234{width: 240px;height: 466px;float: left;}
+.f2col1inner1{width: 475px;height: 325px;border: solid 1px #E8E8E8;overflow: hidden}
+.f2col1inner2{width: 475px;height: 140px;border: solid 1px #E8E8E8;overflow: hidden}
+#main .f2col1inner2 a{display: block;height: 138px;width: 100%}
+.f2col1box21{width: 250px;margin-top: 50px;margin-left: 43px;}
+.f2col234inner1,.f2col234inner2{width: 240px;height: 232px;position: relative;border: solid 1px #E8E8E8;overflow: hidden}
+.f2col234inner1 img,.f2col234inner2 img{position: absolute;left: 0px;right: 0px; bottom: 0px;width: 99%}
+.f2col234inner1 div,.f2col234inner2 div{padding-left: 10px;padding-top: 20px}
+/*三楼*/
+.f3inner{width: 1200px;height: 466px}
+.f3col1{width: 475px;height: 466px;float: left;}
+.f3col234,.f3col234{width: 240px;height: 466px;float: left;}
+.f3col1inner1{width: 475px;height: 361px;border: solid 1px #E8E8E8;overflow: hidden}
+.f3col1inner1 div{width: 200px;float: left;margin:30px 0px 0px 30px }
+.f3col1inner1 div span{color: #e40077;margin-top: 10px;font-size: 28px}
+.f3col1inner1 img{float: right}
+.f3col1inner2{width: 475px;height: 103px;border: solid 1px #E8E8E8;overflow: hidden}
+#main .f3col1inner2 a{float: left;width:94px }
+.f3col234inner1,.f3col234inner2{width: 240px;height: 232px;position: relative;border: solid 1px #E8E8E8;overflow: hidden}
+.f3col234inner1 img,.f3col234inner2 img{position: absolute;left: 0px;right: 0px; bottom: 0px;width: 99%}
+.f3col234inner1 div,.f3col234inner2 div{padding-left: 10px;padding-top: 10px}
+.f3col234inner1 span,.f3col234inner2 span{color:#e40077;font-size: 16px }
+/*四楼*/
+#f4 .divw ul li:first-child{width: 95px}
+.f4inner{width: 1200px;height: 466px}
+.f4col{width: 475px;height: 464px;border: solid 1px #E8E8E8;overflow: hidden;float: left;}
+.f4col .f4colinner{width: 475px;height: 116px;border: solid 1px #E8E8E8;overflow: hidden;position: relative}
+.f4colinner div{margin: 20px 0 0 40px}
+.f4colinner span {color: #e40077;font-size: 16px}
+.f4colinner img{position: absolute;top: 8px;left: 320px;}
+.f4colinner:hover{background-color:#F6F7F7}
+.f4col234,.f4col234{width: 240px;height: 466px;float: left;}
+#main .f4colinner2 a{float: left;width:94px }
+.f4col234inner1,.f4col234inner2{width: 240px;height: 232px;position: relative;border: solid 1px #E8E8E8;overflow: hidden}
+.f4col234inner1 img,.f4col234inner2 img{position: absolute;left: 0px;right: 0px; bottom: 0px;width: 99%}
+.f4col234inner1 div,.f4col234inner2 div{padding-left: 10px;padding-top: 10px;width: 230px}
+.f4col234inner1 span,.f4col234inner2 span{color:#e40077;font-size: 16px }
+.f4col3{width: 240px;height: 464px;float: left;border: solid 1px #E8E8E8;position: relative}
+.f4col3 div{padding-left: 10px;padding-top: 20px}
+.f4col3 span{color: #e40077;font-size: 28px}
+.f4col3 img{position: absolute;left: 0px;right: 0px; bottom: 0px;width: 99%}
+
+#main .footend{width: 1200px;height: 227px;margin-top: 20px;text-align: center;}
+#main .footend>a{width: 1200px;height: 36px;margin-top:5px;text-align: center;font:normal 12px/34px '微软雅黑';display: block;margin: auto}
+
+#main #foot .foot3{width: 1200px;height: 230px;margin-top: 10px;border: solid 1px #E8E8E8;}
+#main #foot .foot3>div{display: flex;justify-content: space-around;width: 1200px;margin-left: 50px;height: 230px}
+#main #foot .foot3>div>div{width: 200px;height: 198px;margin-top: 10px}
+#main #foot .foot3>div>div>span{font: bold 15px/27px '微软雅黑'}
+#main #foot .foot3>div>div>div{width: 200px;height: 27px;}
+#main #foot .foot3>div>div>div>a:hover{cursor: pointer;color:rgb(62, 180, 250) }
+#main #foot .foot3>div>div>div>a{font: normal 15px/27px '微软雅黑';color: #666;transition: all 0.2s}
+
+.foot2{height: 74px;margin-top: 10px;border: solid 1px #E8E8E8;}
+.foot2>div{width: 1198px;height: 12px;}
+#main #foot .foot2>div>a  {width: 70px;height: 12px;float: right;position: relative;top: -15px}
+#main #foot .foot2>div>a>span {font-size: 12px;width: 70px;height:12px;float: left; }
+#main #foot .foot2>span{margin:-10px 30px;float: left;}
+#main #foot .foot2>ul{float: left;width: 1020px}
+#main #foot .foot2>ul>li{float: left;width: 510px;height: 20px}
+#main #foot .foot2>ul>li>a{width: 510px;height: 20px}
+#main #foot .foot2>ul>li>a>span:last-child{color:rgb(213, 204, 204)}
+#main #foot .foot2>ul>li .spann {width: 300px;display: inline-block;color: #808080;transition: all 0.2s}
+#main #foot .foot2>ul>li .spann:hover {cursor: pointer;color:rgb(62, 180, 250)}
+
+#foot .foot1{width: 1198px;height: 38px;border: solid 1px #E8E8E8;}
+#foot .foot1>a{width: 100px;height: 38px;line-height: 38px;padding-left: 20px;float: left}
+#foot .foot1>ul{width: 1040px;height: 75px;float: left;line-height: 35px}
+#foot .foot1>ul>li {float: left;width: 510px;}
+#main #foot .foot1>ul>li>span{color: rgb(213, 204, 204)}
+#main  #foot .foot1>ul>li>a{width: 330px;height: 35px;float: left;color: rgb(62, 180, 250)}
+#foot .foot1>div{width: 50px;height: 38px;float: left}
+#foot .foot1>div>a{float: left;width: 22px;height: 38px;color:rgb(53, 128, 186);font:bold 15px/38px 宋体}
+
+#special .specinner{width: 1198px;height: 130px}
+#special .specinner>div{width: 299px;height: 80px;float: left;margin: 20px 0px}
+#special .specinner>div a:first-child{float: left;width: 100px}
+#special .specinner>div a:last-child{float: left;width: 197px}
+#special .specinner>div a:last-child p{color: #808080;font-size: 14px}
+
+#like .col{width: 1198px;height: 341px;border: solid 1px #E8E8E8;}
+#like .col>div{width: 239px;height: 341px;float: left;border-left: solid 1px #E8E8E8;}
+#like .col>div a{text-align: center;width: 239px;margin-top: 15px;}
+#like .col>div .pp{margin: 14px;color:#ef2e72}
+#like .col>div p:last-child{margin: 10px 20px;text-align: left;color: #808080;font-size: 12px;width: 200px;height: 67px;overflow: hidden}
+
+
+.f5col2inner2{width: 722px;height: 233px;float: left;border: solid 1px #E8E8E8;}
+.f5col2inner2>div{width: 682px;height: 30px;margin: auto;padding:20px 0px;margin-bottom: 20px }
+.f5col2inner2>div h4{float: left;margin-top: 0;padding-top: 0}
+.f5col2inner2>div div{float: right}
+.f5col2inner2>div div:last-child{float: right;margin-right: 20px;color: #808080;font-size: 16px}
+.f5col2inner2 .hiden {display: none}
+.f5col2inner2 .imgg{display: flex;justify-content:space-around;}
+.f5col2inner2 .imgg li{width: 144px}
+.f5col2inner2 .aa {width: 120px;height: 120px;text-align: center}
+.f5col2inner2 .show{display: block}
+
+.f5col2inner1{width: 722px;height: 233px;float: left;border: solid 1px #E8E8E8;position: relative;overflow: hidden}
+.f5col2inner1 ul:first-child{position: relative}
+.f5col2inner1 ul:first-child:hover{cursor:pointer}
+.f5col2inner1 ul:first-child li{text-align:center;line-height: 230px;transition:all 0.5s linear;opacity: 0;position: absolute;top:0;left: 0}
+.f5col2inner1 ul:last-child li{float: left;}
+.f5col2inner1 ul:last-child{position: absolute;top: 185px;left: 345px;z-index: 4}
+.f5col2inner1 ul:last-child li div{width: 10px;height: 10px;border-radius: 50%;background-color: #5d5d5c}
+.f5col2inner1 ul:last-child>div{background-color: silver;width: 50px;height:20px;border-radius: 30px;}
+.f5col2inner1 ul:last-child>div>div{padding-top: 5px;display: flex;justify-content: space-around;transition: all;transition-duration: 0.3s}
+.f5col2inner1 ul:last-child>div>div .active{background-color:#ef2e72}
+.f5col2inner1 ul:first-child .active3{display: block;opacity: 1;z-index: 3;}
+
+.f5col1inner1{width: 237px;height: 466px;;border: solid 1px #E8E8E8;overflow: hidden;float: left}
+.f5col1inner2{width: 220px;height: 415px;margin: auto}
+.f5col1inner2 li{width: 220px;height: 70px;margin-top: 10px;display: flex;justify-content: space-around }
+.f5col1inner2 li p{margin-top: 0px;color: #808080}
+.f5col1inner2 div:first-child{width: 70px;height: 70px;overflow: hidden}
+.f5col1inner2 div:last-child{width: 130px;height: 70px}
+#f5 .title{width: 220px;height: 30px;margin: auto;display: flex;flex-direction: row;margin-top: 10px;justify-content: space-between}
+#f5 .title a{width: 30px}
+#f5 .title span{color: #808080;line-height: 30px}
+#f5 .title h4{margin-top: 5px;color: #222222;font-size: 20px}
+#f5 .title div:last-child a{float: left}
+.f5ul{width: 237px;height: 466px;border: solid 1px #E8E8E8;overflow: hidden;float: left;}
+.f5ul li{width: 237px;height: 116px;border-top: solid 1px #E8E8E8;overflow: hidden;float: left;transition-property: all;transition-duration: 0.2s }
+.f5ul li div{padding: 20px 0 0 30px;float: right;width: 230px}
+.f5ul li:hover{border-left:5px solid #ef2e72;background-color: #f6f7f7;}
+#main .f5ul .active{border-left:5px solid #ef2e72;background-color: #f6f7f7;}
+.f5ul li .active2{color: #ef2e72}
+.f5a:hover{color: #ef2e72}
+.f5a2{color: #808080}
+.f5a2:hover{color: #808080}
+
+
+#header .header_ad1{height: 80px;position: relative}
+#header .header_ad1>span {position: absolute;top: 10px;right: 10px;width: 45px;height: 23px}
+#header .header_ad2  {height: 450px;position: relative}
+#header .header_ad2>span{position: absolute;top: 10px;right: 10px;width: 60px;height: 30px}
+
+.wapper .wapperinner{width: 710px;height: 416px;background-color: white;z-index:10;position: absolute;top: 0;left: 234px;border: solid 1px rgb(62, 180, 250)}
+.border:hover{border: solid 1px rgb(62, 180, 250);border-right: solid 1px white;}
+.border{z-index: 20;position: relative}
+.borderColor{border: solid 1px rgb(62, 180, 250);border-right: solid 1px white;}
+
+.wapperinner dl{padding: 5px 0}
+.wapperinner dt{float: left;width: 80px;font: bold 12px/30px 'microsoft yahei';}
+.wapperinner dt>span{float: right;margin-right: 5px}
+.wapperinner dd{float: left;width: 560px;min-height: 30px;border-bottom: 1px solid #f3f3f3;font:12px/30px 'microsoft yahei'}
+.wapperinner dd a{padding-right: 20px}
+.tran{transition: all 0.5s linear}
+
+.rotateinner{height: 400px;position: absolute;}
+.rotateinner div{width: 705px;float: left}
+.rotate .active{background-color:red}
+.rotate2{width: 10px;height: 10px;border-radius: 50%;background-color:black;opacity: 0.8}
+.rotate ul{}
+.rotate .rotateli{position: absolute;top:360px;left:0;width: 705px;height: 15px;display: flex;justify-content: space-around}
+.rotate ul li{float: left;margin-right: 10px}
+
+#banner .backg {height: 400px;margin: auto;transition: all 0.5s linear}
+
+.tran3 {transition: all 0.5s linear}
+.bg{background-color: #00a8ff}

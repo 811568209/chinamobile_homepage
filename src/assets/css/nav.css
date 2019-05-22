@@ -1,0 +1,14 @@
+#nav{margin-top: 20px}
+.navright{width: 235px;height: 170px}
+.navright img{width: 100%}
+.navleft{width: 960px;height:170px;position: relative;overflow: hidden }
+.navleft>div:first-child{height:170px;position: relative;}
+.navleft>div:first-child>div{width: 235px;height: 170px;float: left;background: #f4f4f4}
+.navleft li{float: left}
+.navleft li{width: 235px;height: 170px;background-color: #f4f4f4}
+.navleft .h44{font-weight: bold}
+.navleft ul{width: 2350px}
+.navleft img{width: 120px;height: 100px;float: right}
+.navlimar{margin-left: 10px}
+.prev{background-image:url(../image/prev2.png);width: 28px;height: 35px;position: absolute;top: 67px; z-index: 1}
+.next{background-image:url(../image/next2.png);width: 28px;height: 35px;position: absolute;top: 67px;left: 930px; z-index: 1}
